@@ -1,0 +1,11 @@
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\bin\Debug\RadialStitch_for_inkscape.exe.config
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\bin\Debug\RadialStitch_for_inkscape.exe
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\bin\Debug\RadialStitch_for_inkscape.pdb
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\bin\Debug\RadialStitch_for_inkscape.xml
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\obj\Debug\RadialStitch_for_inkscape.Form1.resources
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\obj\Debug\RadialStitch_for_inkscape.Resources.resources
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\obj\Debug\RadialStitch_for_inkscape.vbproj.GenerateResource.Cache
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\obj\Debug\RadialStitch_for_inkscape.vbproj.CoreCompileInputs.cache
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\obj\Debug\RadialStitch_for_inkscape.exe
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\obj\Debug\RadialStitch_for_inkscape.xml
+C:\Users\kasut\source\repos\RadialStitch_for_inkscape\RadialStitch_for_inkscape\obj\Debug\RadialStitch_for_inkscape.pdb
